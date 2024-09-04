@@ -2,6 +2,7 @@
 <div>
   <a href="https://github.com/cleston74">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=cleston74&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleston74&layouy=compact&langs_count=5&theme=dracula"/>
 </div>
 <!--
 **cleston74/cleston74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
